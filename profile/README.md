@@ -2,8 +2,16 @@
   <h1>Offeline</h1>
 
   <p>
-    Articial Intelligence that belongs to you 
+    Artificial Intelligence that belongs to you
   </p>
+
+  <a href="https://apps.apple.com/app/offeline-private-ai-assistant/id6789920509">
+    <img
+      src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
+      alt="Download on the App Store"
+      height="60"
+    />
+  </a>
 </div>
 
 <br>
@@ -28,4 +36,10 @@
     alt="Offeline mobile interface"
     width="800"
   />
+
+  <br><br>
+
+  <a href="https://apps.apple.com/app/offeline-private-ai-assistant/id6789920509">
+    <strong>📱 Download on the App Store</strong>
+  </a>
 </div>
