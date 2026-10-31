@@ -1,9 +1,7 @@
 <div align="center">
   <h1>Antinet</h1>
 
-  <p>
-   Offline AI infrastructure and models for regulated industries
-  </p>
+ 
 
 
   <a href="https://apps.apple.com/app/offeline-private-ai-assistant/id6789920509">
@@ -15,7 +13,7 @@
   </a>
 
  <p>
-   here is a fun app for running offline models
+  This is a fun app for running offline models
   </p>
 
 </div>
