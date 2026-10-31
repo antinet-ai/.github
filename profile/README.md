@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Offeline</h1>
+  <h1>Antinet</h1>
 
   <p>
-    Artificial Intelligence that belongs to you
+   Offline AI infrastructure and models for regulated industries
   </p>
 
   <a href="https://apps.apple.com/app/offeline-private-ai-assistant/id6789920509">
