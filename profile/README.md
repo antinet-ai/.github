@@ -28,18 +28,3 @@
 
 <br>
 
-<div align="center">
-  <h3>Mobile</h3>
-
-  <img
-    src="https://res.cloudinary.com/diekemzs9/image/upload/c_limit,w_1000,q_auto,f_auto/v1784107528/phone.png"
-    alt="Offeline mobile interface"
-    width="800"
-  />
-
-  <br><br>
-
-  <a href="https://apps.apple.com/app/offeline-private-ai-assistant/id6789920509">
-    <strong>📱 Download on the App Store</strong>
-  </a>
-</div>
